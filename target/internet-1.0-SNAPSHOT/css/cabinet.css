@@ -1,0 +1,102 @@
+.admin_section{
+    width: 100%;
+    height: auto;
+}
+
+.users_section{
+    width: 100%;
+    height: auto;
+}
+
+.line{
+    margin: 0 auto;
+    width: 70%;
+    height: 3px;
+    background-color: black;
+}
+
+.main_text{
+    text-align: center;
+    font-size: 35px;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 50px;
+}
+
+.connect_text{
+    color: #c1e3ff;
+    text-align: center;
+    font-size: 35px;
+    width: 100%;
+    height: 60px;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+}
+
+.admin_info{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.users_info{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+    width: 70%;
+    height: auto;
+}
+.trybutton{
+    margin: 0 auto;
+    width: 200px;
+    height: 54px;
+    border: 4px solid black;
+    text-align: center;
+    line-height: 50px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 700;
+    transition: all 0.5s;
+}
+.trybutton:hover{
+    background-color: red;
+    color: white;
+}
+.button-link{
+    text-decoration: none;
+}
+
+.remove{
+    width: 20px;
+    height: 20px;
+}
+
+.button_remove{
+    background-color: #c1e3ff;
+    border: 1px solid #c1e3ff;
+    color: red;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.users_div{
+    margin-top: 10px;
+    width: 40%;
+    height: 286px;
+    /*border: 1px solid black;*/
+    background-color: #e4f3ff;
+    margin-bottom: 20px;
+}
+
+.fullname{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+.other_info{
+    text-align: center;
+}

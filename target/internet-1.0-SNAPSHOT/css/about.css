@@ -1,0 +1,48 @@
+.about{
+    width: 100%;
+    height: auto;
+}
+
+.main_text{
+    text-align: center;
+    font-size: 35px;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 50px;
+}
+
+.first_info{
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+
+.first_text{
+    text-align: center;
+    width: 50%;
+    font-size: 30px;
+}
+.header{
+    color: #c1e3ff;
+}
+
+.first_img_div{
+    width: 50%;
+}
+
+.second_img{
+    border-radius: 10%;
+    margin-left: 30px;
+    /*width: 680px;*/
+    /*height: 449px;*/
+    width: 753px;
+    height: 537px;
+}
+
+.first_img{
+    border-radius: 10%;
+    width: 753px;
+    height: 537px;
+;
+
+}
